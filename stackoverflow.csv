@@ -1,0 +1,18 @@
+llama-cpp-python not using NVIDIA GPU CUDA,https://stackoverflow.com/questions/76963311/llama-cpp-python-not-using-nvidia-gpu-cuda
+LangChain Python with structured output Ollama functions,https://stackoverflow.com/questions/78404535/langchain-python-with-structured-output-ollama-functions
+Use LLama 2 7B with python,https://stackoverflow.com/questions/76841958/use-llama-2-7b-with-python
+Error while installing python package: llama-cpp-python,https://stackoverflow.com/questions/77267346/error-while-installing-python-package-llama-cpp-python
+How to Merge Fine-tuned Adapter and Pretrained Model in Hugging Face Transformers and Push to Hub?,https://stackoverflow.com/questions/77164963/how-to-merge-fine-tuned-adapter-and-pretrained-model-in-hugging-face-transformer
+ImportError: Using `bitsandbytes` 8-bit quantization requires Accelerate: `pip install accelerate`,https://stackoverflow.com/questions/78040978/importerror-using-bitsandbytes-8-bit-quantization-requires-accelerate-pip-i
+Loading checkpoint shards takes too long,https://stackoverflow.com/questions/77064065/loading-checkpoint-shards-takes-too-long
+llama-cpp-python not using NVIDIA GPU CUDA,https://stackoverflow.com/questions/76963311/llama-cpp-python-not-using-nvidia-gpu-cuda
+LangChain Python with structured output Ollama functions,https://stackoverflow.com/questions/78404535/langchain-python-with-structured-output-ollama-functions
+Use LLama 2 7B with python,https://stackoverflow.com/questions/76841958/use-llama-2-7b-with-python
+Error while installing python package: llama-cpp-python,https://stackoverflow.com/questions/77267346/error-while-installing-python-package-llama-cpp-python
+How to Merge Fine-tuned Adapter and Pretrained Model in Hugging Face Transformers and Push to Hub?,https://stackoverflow.com/questions/77164963/how-to-merge-fine-tuned-adapter-and-pretrained-model-in-hugging-face-transformer
+ImportError: Using `bitsandbytes` 8-bit quantization requires Accelerate: `pip install accelerate`,https://stackoverflow.com/questions/78040978/importerror-using-bitsandbytes-8-bit-quantization-requires-accelerate-pip-i
+Loading checkpoint shards takes too long,https://stackoverflow.com/questions/77064065/loading-checkpoint-shards-takes-too-long
+AssertionError when using llama-cpp-python in Google Colab,https://stackoverflow.com/questions/76986412/assertionerror-when-using-llama-cpp-python-in-google-colab
+Sentence embeddings from LLAMA 2 Huggingface opensource,https://stackoverflow.com/questions/76926025/sentence-embeddings-from-llama-2-huggingface-opensource
+"Input type into Linear4bit is torch.float16, but bnb_4bit_compute_type=torch.float32 (default). This will lead to slow inference or training speed",https://stackoverflow.com/questions/77301266/input-type-into-linear4bit-is-torch-float16-but-bnb-4bit-compute-type-torch-flo
+Fine-tuning TheBloke/Llama-2-13B-chat-GPTQ model with Hugging Face Transformers library throws Exllama error,https://stackoverflow.com/questions/76983305/fine-tuning-thebloke-llama-2-13b-chat-gptq-model-with-hugging-face-transformers
