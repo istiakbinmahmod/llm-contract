@@ -3,7 +3,7 @@ import csv
 
 # CSV_FILENAME = 'stackoverflow.csv'
 
-# STACK_OVERFLOW_TAGS = ["llama", "alpaca", "camel", "vicuna", "guanaco"]
+# STACK_OVERFLOW_TAGS = ["llama", "huggingface-transformers", "camel", "vicuna", "guanaco"]
 STACK_OVERFLOW_TAGS = ["openai-api"]
 
 
